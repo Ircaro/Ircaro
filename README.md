@@ -30,7 +30,6 @@
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=flat&logo=webdriverio&logoColor=white)
-![node:test](https://img.shields.io/badge/node%3Atest-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 **Languages and backend**
 
@@ -44,7 +43,6 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Canvas 2D](https://img.shields.io/badge/Canvas%202D-1f2937?style=flat)
 
 **Databases**
 
