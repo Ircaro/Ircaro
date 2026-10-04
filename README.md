@@ -17,10 +17,9 @@
 
 ### Side projects
 
-- 🧨 [Bomba Arena](https://github.com/Ircaro/bomba-arena): bomber arena for the browser, with online multiplayer for 4 players over WebSocket and graphics drawn entirely in code.
-- 🧮 [CLT x PJ](https://ircaro.github.io/clt-vs-pj/): compares Brazilian job offers (CLT vs. PJ) with the official tax tables. Calculation engine covered by tests.
-- 📈 [Carteira IRPF](https://ircaro.github.io/irpf-carteira/): log your stock and REIT trades during the year and get only what changes in your income tax return.
-- 🗡️ Lumora: 2D pixel-art RPG in strict TypeScript, still in progress.
+- 💣 [Bomba Arena](https://ircaro.github.io/bomba-arena/): bomber arena for the browser, with online multiplayer for 4 players over an authoritative WebSocket server and graphics drawn entirely in code. [Code](https://github.com/Ircaro/bomba-arena)
+- 🃏 [Canastra Limpa](https://ircaro.github.io/canastra-limpa/): Buraco, a Brazilian rummy card game, against bots or online with up to 4 people, with configurable rules and bots that play as a team. [Code](https://github.com/Ircaro/canastra-limpa)
+- 🗡️ Lumora: 2D pixel-art RPG in strict TypeScript, with the engine covered by tests. Still in progress.
 
 ### Technologies I've worked with
 
