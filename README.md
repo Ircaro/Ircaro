@@ -1,6 +1,6 @@
 ## Hi, I'm Írcaro 👋
 
-- 🧪 QA Engineer / SDET from Salvador, Brazil.
+- 🧪 SDET / QA Engineer from Salvador, Brazil.
 - 🎓 Computer Science at Unifacs (in progress).
 - 💳 Working at Zig since 2022 on the quality of a payments platform: contracts, fees, operational closing and refunds.
 - 🔧 I don't stop at the bug report. I trace the defect to the layer where it was born and ship the fix, in TypeScript and C#.
