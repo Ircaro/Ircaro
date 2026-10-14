@@ -19,6 +19,7 @@
 
 - 💣 [Bomba Arena](https://ircaro.github.io/bomba-arena/): bomber arena for the browser, with online multiplayer for 4 players over an authoritative WebSocket server and graphics drawn entirely in code. [Code](https://github.com/Ircaro/bomba-arena)
 - 🃏 [Canastra Limpa](https://ircaro.github.io/canastra-limpa/): Buraco, a Brazilian rummy card game, against bots or online with up to 4 people, with configurable rules and bots that play as a team. [Code](https://github.com/Ircaro/canastra-limpa)
+- 🏰 [Fortim](https://ircaro.github.io/fortim/): tower defense for desktop and mobile, with 5 stages, endless mode and towers that specialize. Battle logic tested, including balancing with bots that play the stages. [Code](https://github.com/Ircaro/fortim)
 - 🗡️ Lumora: 2D pixel-art RPG in strict TypeScript, with the engine covered by tests. Still in progress.
 
 ### Technologies I've worked with
